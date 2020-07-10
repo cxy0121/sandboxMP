@@ -772,6 +772,3 @@ sandboxmp-uwsgi: started
 
 <br>
 <br>
-
-> 更多实战类文档，请关注我的知识星球： https://t.zsxq.com/a6IqBMr (微信中打开链接)<br>
-轻量级办公管理系统项目开源地址：https://github.com/RobbieHan/gistandard <br>
